@@ -35,3 +35,11 @@ for item in nilai:                                                            ##
           .format(no=i, nama=item[0], nim=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5])) ## Mengambil list yg sudah diinputkan didalam list nilai.
 print("==================================================================")
 ```
+### Flowchart
+![Flowchart](https://user-images.githubusercontent.com/56286071/72212932-0e625000-3519-11ea-8d42-75c41f4a74d9.png)
+
+### Input
+<img width="960" alt="Input" src="https://user-images.githubusercontent.com/56286071/72212949-3b166780-3519-11ea-9077-f80a85eaa689.png">
+
+### Output
+<img width="960" alt="Output" src="https://user-images.githubusercontent.com/56286071/72212955-48335680-3519-11ea-8b92-a9f0ce873a9a.png">
